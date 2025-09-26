@@ -34,7 +34,7 @@ cp env.sample .env
 ```
 
 Then edit .env with your details:
-.env
+
 ```
 export DB_HOST=127.0.0.1
 export DB_USER=root
@@ -54,7 +54,6 @@ python3 ./migratePostfixadmintoMailcow.py
 ## Optional: Maildir Migration
 Optional: Maildir Migration
 ```
-BASE="/var/lib/docker/volumes/mailcowdockerized_vmail-vol-1/_data"
 ./migrateMailDir.sh
 ```
 
