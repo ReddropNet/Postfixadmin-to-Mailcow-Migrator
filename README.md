@@ -53,6 +53,7 @@ python3 ./migratePostfixadmintoMailcow.py
 
 ## Optional: Maildir Migration
 Optional: Maildir Migration
+Move the postfixadmin Maildir in the root of each users home contents into a proper Maildir/ subfolder
 ```
 ./migrateMailDir.sh
 ```
