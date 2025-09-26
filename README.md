@@ -1,4 +1,4 @@
-# postfixAdminToMailCow
+# Postfixadmin-to-Mailcow-Migrator
 
 Migration Script from postfixadmin to MailCow
 
